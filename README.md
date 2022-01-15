@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Killpitalih
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning A little hack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning a python and Java script 
 - 📫 How to reach me andreiefremov001100@gmail.com 
 
 <!---
